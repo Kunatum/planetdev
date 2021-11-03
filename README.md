@@ -1,2 +1,1 @@
-# planetdev
-Planetdev
+Javascrıpt developer
